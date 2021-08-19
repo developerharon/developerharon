@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Developer Haron](https://developerharon.rocks) - A software writer.
+My name is [Developer Haron](https://linktr.ee/developerharon) - A software writer.
 
 ![Developer Haron's Github Stats](https://github-readme-stats.vercel.app/api?username=developerharon&show_icons=true)
 <!--
