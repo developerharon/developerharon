@@ -1,9 +1,12 @@
-### Hi there 👋
+<div>
+    <p align="center">### Hi there 👋</p>
+    <p align="center">My name is [Developer Haron](https://linktr.ee/developerharon) - A software writer.</p>
+    <p align="center">![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)</p>
+</div>
 
-My name is [Developer Haron](https://linktr.ee/developerharon) - A software writer.
-
-![Developer Haron's Github Stats](https://github-readme-stats.vercel.app/api?username=developerharon&show_icons=true)
 <!--
+![Developer Haron's Github Stats](https://github-readme-stats.vercel.app/api?username=developerharon&show_icons=true)
+
 **developerharon/developerharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
