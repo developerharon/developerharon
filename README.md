@@ -1,8 +1,8 @@
-<div>
-    <p align="center">### Hi there 👋</p>
-    <p align="center">My name is [Developer Haron](https://linktr.ee/developerharon) - A software writer.</p>
-    <p align="center">![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)</p>
-</div>
+### Hi there
+
+My name is [Developer Haron](https://linktr.ee/developerharon) - A software writer.
+
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
 <!--
 ![Developer Haron's Github Stats](https://github-readme-stats.vercel.app/api?username=developerharon&show_icons=true)
